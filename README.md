@@ -1,5 +1,3 @@
-[﻿# Most-Challenging-Problem
-
 # Hush — Real-Time Chat Application
 
 ### Live Demo
@@ -46,4 +44,3 @@ Hush is a real-time chat application built with modern web technologies, offerin
 * Clean and responsive UI
 
 
-If you want, I can also add installation steps, architecture diagrams, or screenshots for a complete README.
